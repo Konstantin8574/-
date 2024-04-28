@@ -12,5 +12,7 @@ class Program
         Console.WriteLine("1");
         Thread.Sleep(1000);
         Console.WriteLine("Ракеты были запущены");
+        Thread.Sleep(1000);
+        Console.WriteLine("Цель уничтожена");
     }
 }
